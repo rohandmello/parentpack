@@ -1,0 +1,16 @@
+{
+    "name": "dmellorohan/parentpack",
+    "description": "God Pack",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rohan Dmello",
+            "email": "dmellorohan@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "dmellorohan/connector": "1.0.0"
+    }
+}
